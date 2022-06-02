@@ -1,0 +1,31 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "anis",
+  "main": "index.js",
+  "scripts": {
+    "test": "anis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sara2993/Textile-industry.git"
+  },
+  "keywords": [
+    "abcd"
+  ],
+  "author": "anisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sara2993/Textile-industry/issues"
+  },
+  "homepage": "https://github.com/Sara2993/Textile-industry#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "logger": "0.0.1",
+    "maticon": "^1.0.7",
+    "nodemailer": "^6.7.5",
+    "winston": "^3.7.2"
+  }
+}

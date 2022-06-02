@@ -1,0 +1,32 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "scripts": {
+    "test": "adu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sara2993/Textile-industry.git"
+  },
+  "keywords": [
+    "sdfghj"
+  ],
+  "author": "anisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sara2993/Textile-industry/issues"
+  },
+  "homepage": "https://github.com/Sara2993/Textile-industry#readme",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.5.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "logger": "0.0.1",
+    "nano": "^10.0.0",
+    "nodemailer": "^6.7.5",
+    "winston": "^3.7.2"
+  }
+}
